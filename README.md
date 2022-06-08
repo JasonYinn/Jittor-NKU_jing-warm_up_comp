@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 #### 预训练模型
-预训练模型模型下载地址为https://pan.baidu.com/s/1HaU8PuPnxSmY_-1bjo_Spw?pwd=h7w9，提取码: h7w9，下载后放入目录 `<root>/` 下。
+预训练模型模型下载地址为```discriminator_last.pkl```和```generator_last.pkl```，可直接运行。
 
 ## 训练
 
